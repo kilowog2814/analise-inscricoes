@@ -41,4 +41,4 @@ Analise dos dados consolidados, respondendo as seguintes perguntas
 4. Gráfico mostrando evolução nas inscrições e matrículas ao longo dos anos
 5. Reunir todas as informações em um mesmo lugar, para acessarmos com mais facilidade 
 
-No final do arquivo temos uma espaço para sugestoes de melhorias
+No final do arquivo temos uma espaço para sugestões de melhorias
