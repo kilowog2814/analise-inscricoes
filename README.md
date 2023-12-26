@@ -25,7 +25,20 @@ Esse processo consiste em abrir dados os arquivos nas pastas, pegar as informaç
 Depois de todo esse processo de extraçao, os dados sao unificados em um unico dataframe e esse dataframe é salvo em um arquivo Excel chamado metadados.
 
 ### Unificaçao de todas as bases [Notebook]()
+Este script desempenha a função de consolidar diversos arquivos, levando em consideração os metadados
 
 ### Enriquecimento dos dados de endereço [Notebook]()
+Script que usando a API Brasil, filtros os CEP's validados para pesquisa de dados de endereço.
+
+Para a analise só utilizei os dados macros, UF, Cidade e Bairro.
 
 ### Analise dos dados gerados [Notebook]() | [Arquivo pdf]()
+Analise dos dados consolidados, respondendo as seguintes perguntas
+
+1. Taxa de conversão inscritos x p agantes
+2. Taxa de retenção de alunos de um semestre/ano para o outro
+3. De onde vem as inscrições
+4. Gráfico mostrando evolução nas inscrições e matrículas ao longo dos anos
+5. Reunir todas as informações em um mesmo lugar, para acessarmos com mais facilidade 
+
+No final do arquivo temos uma espaço para sugestoes de melhorias
