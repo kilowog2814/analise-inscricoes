@@ -27,7 +27,7 @@ Depois de todo esse processo de extraçao, os dados sao unificados em um unico d
 ### Unificaçao de todas as bases [Notebook]()
 Este script desempenha a função de consolidar diversos arquivos, levando em consideração os metadados
 
-### Enriquecimento dos dados de endereço [Notebook]()
+### Enriquecimento dos dados de endereço [Notebook](https://github.com/kilowog2814/analise-inscricoes/blob/master/pegarDadosCep.ipynb)
 Script que usando a API Brasil, filtros os CEP's validados para pesquisa de dados de endereço.
 
 Para a analise só utilizei os dados macros, UF, Cidade e Bairro.
