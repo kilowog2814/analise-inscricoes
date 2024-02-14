@@ -19,7 +19,7 @@ Problemas encontrados essa estrutura:
 4. Analise dos dados gerados.
 5. Sugestoes de melhorias.
 
-### Coleta dos Metadados [Notebook]()
+### Coleta dos Metadados [Notebook](https://github.com/kilowog2814/analise-inscricoes/blob/master/metadados.ipynb)
 Esse processo consiste em abrir dados os arquivos nas pastas, pegar as informaçoes de colunas, turma (nome da aba), idioma e nome do arquivo.
 
 Depois de todo esse processo de extraçao, os dados sao unificados em um unico dataframe e esse dataframe é salvo em um arquivo Excel chamado metadados.
