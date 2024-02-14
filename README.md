@@ -12,6 +12,14 @@ Problemas encontrados essa estrutura:
 2. Falta de alguns informaçoes mais completas para geraçao de insights: sexo, idade, faixa de renda etc.
 3. Falta de um estrutura unificada em um unico lugar.
 
+#### Glossario dos idiomas
+Os idiomas foram alterados para garantir a anonimização dos dados disponibilizados. Abaixo um descritivo dos nomes
+1. Ongota:  é uma língua falada no sudoeste da Etiópia.
+2. Amanayé: uma língua da família Tupi-Guarani
+3. Poyanawa: falado por apenas dois índios numa aldeia do Acre
+4. Lemerig: é uma língua oceânica falada em Vanua Lava, Vanuatu.
+
+
 ### Todo o processo de analisa passou pelas etapas de:
 1. Coleta de metadados de todos os arquivos
 2. Unificaçao de todas as bases em um unico arquivo
