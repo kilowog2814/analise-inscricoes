@@ -24,7 +24,7 @@ Esse processo consiste em abrir dados os arquivos nas pastas, pegar as informaç
 
 Depois de todo esse processo de extraçao, os dados sao unificados em um unico dataframe e esse dataframe é salvo em um arquivo Excel chamado metadados.
 
-### Unificaçao de todas as bases [Notebook]()
+### Unificaçao de todas as bases [Notebook](https://github.com/kilowog2814/analise-inscricoes/blob/master/unificarArquivos.ipynb)
 Este script desempenha a função de consolidar diversos arquivos, levando em consideração os metadados
 
 ### Enriquecimento dos dados de endereço [Notebook](https://github.com/kilowog2814/analise-inscricoes/blob/master/pegarDadosCep.ipynb)
