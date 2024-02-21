@@ -40,7 +40,7 @@ Script que usando a API Brasil, filtros os CEP's validados para pesquisa de dado
 
 Para a analise só utilizei os dados macros, UF, Cidade e Bairro.
 
-### Analise dos dados gerados [Notebook]() | [Arquivo pdf]()
+### Analise dos dados gerados [Notebook](https://github.com/kilowog2814/analise-inscricoes/blob/master/analise_inscricoes.ipynb) | [Arquivo pdf]()
 Analise dos dados consolidados, respondendo as seguintes perguntas
 
 1. Taxa de conversão inscritos x p agantes
